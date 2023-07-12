@@ -1,6 +1,7 @@
 # Sidebar and Modal
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![giphy](https://github.com/jovyflagg/sidebar/assets/9621888/0d326fcd-b372-4ed0-a271-620099da02bc)
 
 ### Github page Link below
 
