@@ -2,27 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-on mobile:
-
-Sidebar:
-
-![1689190315458](image/README/1689190315458.png)
-
-Modal:
-
-![1689190350034](image/README/1689190350034.png)
-
-on Desktop:
-
-![1689108723231](image/README/1689108723231.png)
-
 ### Github page Link below
 
-[ 🧭 Navbar - project demo](https://jovyflagg.github.io/navbar/)
+[ 🧭 Sidebar and Modal - project demo](https://jovyflagg.github.io/sidebar)
 
 or scan qr code:
 
-![1689108966052](image/README/1689108966052.png)
+![1689192577181](image/README/1689192577181.png)
 
 #### Credits:
 
@@ -42,6 +28,6 @@ const Component = () => {
 };
 ```
 
-* John Smilga
+* John Smilga / CodingAddict YT channel
 * freeCodeCamp.org
 * [15 React Projects](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=614s)
